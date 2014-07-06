@@ -5,4 +5,3 @@ pygments: true
 permalink: pretty
 baseurl: /pages
 paginate: 10
-
