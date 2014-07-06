@@ -1,11 +1,3 @@
-# Site settings
-title: Sprunks git.io site
-email: thesprunk@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-baseurl: ""
-url: "http://thesprunk.github.io/pages2/#"
-github_username:  thesprunk
-
-# Build settings
-markdown: kramdown
-permalink: pretty
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
