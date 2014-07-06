@@ -3,6 +3,6 @@ description: Sprunks Test Jekyll site
 markdown: redcarpet
 pygments: true
 permalink: pretty
-baseurl: /pages2/
+baseurl: /pages2
 paginate: 10
 
