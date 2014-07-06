@@ -1,9 +1,8 @@
 name: Thesprunks Jekyll Site
 description: Sprunks Test Jekyll site
-markdown: kramdown
+markdown: redcarpet
 pygments: true
 permalink: pretty
-url: "http://thesprunk.github.io/pages2"
-baseurl: /pages2
+baseurl: /pages2/
 paginate: 10
 
