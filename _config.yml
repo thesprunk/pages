@@ -1,7 +1,4 @@
-name: Thesprunks Jekyll Site
-description: Sprunks Test Jekyll site
+name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
-permalink: pretty
 baseurl: /pages
-paginate: 10
