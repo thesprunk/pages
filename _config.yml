@@ -1,3 +1,8 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: Thesprunks Jekyll Site
+description: Sprunks Test Jekyll site
+markdown: Kramdown
 pygments: true
+permalink: pretty
+url: "http://thesprunk.github.io/pages2"
+paginate: 10
+
